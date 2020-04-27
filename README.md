@@ -9,7 +9,7 @@ https://jsfiddle.net/steven_f/1nmdwo30/latest/
 
 
 ### **SI ES MENOR DE EDAD** ###
-![menor](/pantalla/edad_mmenor.PNG)
+![menor](/pantalla/edad_menor.PNG)
 
 ### **DATOS ERRONEOS** ###
 ![validate](/pantalla/edad_mal.PNG)
@@ -22,7 +22,7 @@ https://jsfiddle.net/steven_f/5gptwqdo/latest/
 
 
 ### **VALIDACION DE CAMPOS** ###
-![validarion](/pantalla/mayor_malo)
+![validation](/pantalla/mayor_malo.PNG)
 
 # quinto ejercicio #
 https://jsfiddle.net/steven_f/b2qgwt6d/latest/
