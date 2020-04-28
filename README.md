@@ -14,6 +14,14 @@ https://jsfiddle.net/steven_f/1nmdwo30/latest/
 ### **DATOS ERRONEOS** ###
 ![validate](/pantalla/edad_mal.PNG)
 
+# tercer ejericio #
+
+### **NUMERO PAR** ###
+![PAR](/pantalla/par.PNG)
+
+### **DATOS ERRONEOS** ###
+![validate](/pantalla/impar.PNG)
+
 # cuarto ejercicio #
 https://jsfiddle.net/steven_f/5gptwqdo/latest/
 
