@@ -1,5 +1,6 @@
 
 # ejercicios de js y scss #
+* el primero es una replica, por eso no lo puse (ya sabe como va!).
 
 # segundo ejercicio #
 https://jsfiddle.net/steven_f/1nmdwo30/latest/
@@ -16,6 +17,7 @@ https://jsfiddle.net/steven_f/1nmdwo30/latest/
 
 # tercer ejericio #
 https://jsfiddle.net/steven_f/qz8s1frt/latest/
+
 ### **NUMERO PAR** ###
 ![PAR](/pantalla/par.PNG)
 
@@ -37,3 +39,16 @@ https://jsfiddle.net/steven_f/b2qgwt6d/latest/
 
 ### **factorial** ###
 ![factorial](/pantalla/factorial.PNG)
+
+
+
+### **PROMEDIO DE NOTAS** ###
+https://jsfiddle.net/steven_f/swo6vya0/latest/
+
+## **paso la nota** ##
+![promedio](/pantalla/paso.PNG)
+
+
+## **validacion campos** ##
+![validation](/pantalla/faltanota.PNG)
+
