@@ -15,6 +15,7 @@ https://jsfiddle.net/steven_f/1nmdwo30/latest/
 ![validate](/pantalla/edad_mal.PNG)
 
 # tercer ejericio #
+https://jsfiddle.net/steven_f/qz8s1frt/latest/
 
 ### **NUMERO PAR** ###
 ![PAR](/pantalla/par.PNG)
