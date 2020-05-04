@@ -1,0 +1,24 @@
+.container {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.container .my-card {
+  max-width: 60%;
+  margin: 10px;
+}
+.container .my-card .form-inline {
+  margin-bottom: 20px;
+}
+.container .my-card .form-inline input {
+  margin-left: 20px;
+}
+.container .my-card .form-inline .my-btn {
+  margin-left: 10px;
+}
+.container #result {
+  min-width: 100%;
+  margin-top: 30px;
+  margin-left: 35%;
+}
+
+/*# sourceMappingURL=style.css.map */
